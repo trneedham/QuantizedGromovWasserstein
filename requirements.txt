@@ -14,7 +14,6 @@ Cython==0.29.22
 decorator==4.4.2
 defusedxml==0.7.1
 entrypoints==0.3
-fmriprep-docker==1.4.1
 idna==2.10
 importlib-metadata==3.10.0
 ipykernel==5.5.3
